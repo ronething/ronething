@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 - Devops Engineer
 - Love Guitar 🎸
 
-[![](https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=ronething&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

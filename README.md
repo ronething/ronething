@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin-top: 20px; margin-bottom: 20px;" />
 
 ### Hi there 👋
 

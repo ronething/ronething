@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin: auto; margin-bottom: 20px;" />
+
 ### Hi there 👋
 
 <!--
@@ -15,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronething&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
-- Devops Engineer
-- Love Guitar 🎸
+- 🧱 Devops Rookie
+- 🎸 Interesting in playing guitar
+- 🏠 Homepage at https://blog.ronething.cn
 
 <img src="https://github-profile-trophy.vercel.app/?username=ronething&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

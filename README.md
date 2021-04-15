@@ -5,5 +5,6 @@
 - 🧱 Devops Rookie
 - 🎸 Interesting in playing guitar
 - 🏠 Homepage at https://blog.ronething.cn
+- 💻 Media Press WeChat search ronething
 
 <img src="https://github-profile-trophy.vercel.app/?username=ronething&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

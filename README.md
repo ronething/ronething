@@ -7,4 +7,4 @@
 - 🏠 Homepage at https://blog.ronething.cn
 - 💻 Media Press search **ronething**
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronething&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=ronething&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

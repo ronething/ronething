@@ -3,7 +3,6 @@
 - 💬 Go, Python, JavaScript 逆向爱好者
 - 🎸 热衷指弹
 - 🏠 Blog: [blog.ronething.cn](https://blog.ronething.cn)
-- 😊 WeChat MP: `ronething`
 
 一些可能比较有(qi)趣(guai)的开源仓库:
 

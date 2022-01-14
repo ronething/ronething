@@ -50,4 +50,75 @@
 #### Coding
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 29 Contributions in the Year 2022
+ > 
+> 📦 678.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 122 Public Repositories 
+ > 
+> 🔑 48 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
+🌆 Daytime    98 commits     ████████░░░░░░░░░░░░░░░░░   31.72% 
+🌃 Evening    86 commits     ███████░░░░░░░░░░░░░░░░░░   27.83% 
+🌙 Night      105 commits    ████████░░░░░░░░░░░░░░░░░   33.98%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Thursday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Saturday     94 commits     ███████░░░░░░░░░░░░░░░░░░   30.42% 
+Sunday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       35 repos            ██████████░░░░░░░░░░░░░░░   42.68% 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.61% 
+Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ronething/ronething/master/charts/bar_graph.png) 
+
+
+ Last Updated on 13/01/2022
 <!--END_SECTION:waka-->

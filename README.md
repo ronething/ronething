@@ -50,13 +50,13 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 42 Contributions in the Year 2022
  > 
 > 📦 679.0 kB Used in GitHub's Storage 
  > 
@@ -95,15 +95,15 @@ Sunday       61 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 37 mins       ████████████████████████░   96.19% 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
+Go                       4 hrs 1 min         ████████████████████████░   96.18% 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
 go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 45 mins       █████████████████████████   100.0%
+IntelliJ                 4 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.0%
+Mac                      4 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,5 +124,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ronething/ronething/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->

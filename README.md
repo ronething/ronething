@@ -50,7 +50,7 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463%20Thousand%20lines%20of%20code-blue)
 
@@ -95,15 +95,14 @@ Sunday       63 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 59 mins       ████████████████████████░   99.32% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+Go                       6 hrs 36 mins       █████████████████████████   99.52% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🔥 Editors: 
-IntelliJ                 7 hrs 2 mins        █████████████████████████   100.0%
+IntelliJ                 6 hrs 38 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 2 mins        █████████████████████████   100.0%
+Mac                      6 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,5 +123,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ronething/ronething/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 01:49:06 UTC
+ Last Updated on 26/01/2022 01:51:23 UTC
 <!--END_SECTION:waka-->

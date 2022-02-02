@@ -95,13 +95,13 @@ Sunday       63 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,5 +122,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ronething/ronething/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2022 01:47:36 UTC
+ Last Updated on 02/02/2022 01:44:48 UTC
 <!--END_SECTION:waka-->

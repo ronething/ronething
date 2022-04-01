@@ -52,15 +52,15 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 307 Contributions in the Year 2022
+> 🏆 308 Contributions in the Year 2022
  > 
 > 📦 721.9 kB Used in GitHub's Storage 
  > 
@@ -99,17 +99,15 @@ Sunday       75 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 47 mins       █████████████████████████   99.56% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+Go                       3 hrs 43 mins       █████████████████████████   99.74% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 48 mins       █████████████████████████   100.0%
+IntelliJ                 3 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.0%
+Mac                      3 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -130,5 +128,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ronething/ronething/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/03/2022 02:20:09 UTC
+ Last Updated on 01/04/2022 02:35:19 UTC
 <!--END_SECTION:waka-->

@@ -52,13 +52,15 @@
 #### Coding
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 318 Contributions in the Year 2022
+> 🏆 322 Contributions in the Year 2022
  > 
 > 📦 721.9 kB Used in GitHub's Storage 
  > 
@@ -97,13 +99,13 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 42 mins        █████████████████████████   100.0%
+Go                       1 hr 3 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 1 hr 42 mins        █████████████████████████   100.0%
+IntelliJ                 1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.0%
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +122,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2022 02:16:16 UTC
+ Last Updated on 06/04/2022 02:18:39 UTC
 <!--END_SECTION:waka-->

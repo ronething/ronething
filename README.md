@@ -52,17 +52,17 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 478 Contributions in the Year 2022
+> 🏆 481 Contributions in the Year 2022
  > 
-> 📦 723.6 kB Used in GitHub's Storage 
+> 📦 723.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,17 +99,17 @@ Sunday       59 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 15 mins       █████████████████████░░░░   85.78% 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
-Dockerfile               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
-Makefile                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+Go                       6 hrs 14 mins       ████████████████████░░░░░   81.31% 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Dockerfile               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Makefile                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
 
 🔥 Editors: 
-IntelliJ                 7 hrs 17 mins       █████████████████████████   100.0%
+IntelliJ                 7 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 17 mins       █████████████████████████   100.0%
+Mac                      7 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,5 +126,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2022 03:02:08 UTC
+ Last Updated on 04/05/2022 02:42:35 UTC
 <!--END_SECTION:waka-->

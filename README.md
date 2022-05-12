@@ -39,6 +39,7 @@
 
 #### Python
 
+- [ronething/xiudong-selenium](https://github.com/ronething/xiudong-selenium): 基于 python 和 selenium 实现的秀动辅助下单抢票服务
 - [ronething/ZhiHuCollectionToPDF](https://github.com/ronething/ZhiHuCollectionToPDF): 知乎收藏夹导出成 PDF 文档
 - [ronething/ZhiHuZhuanLanToPDF](https://github.com/ronething/ZhiHuZhuanLanToPDF): 知乎专栏文章导出成 PDF 文档
 - [ronething/mp-music](https://github.com/ronething/mp-music): 微信公众号 音乐 API 接入

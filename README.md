@@ -27,7 +27,7 @@
 - [cloud-org/beats-output-http](https://github.com/cloud-org/beats-output-http): 编译  filebeat v7.13.0 add http output
 - [cloud-org/beats-output-http-another](https://github.com/cloud-org/beats-output-http-another): 另一个编译  filebeat v7.13.0 add http output
 - [cloud-org/delay-task-scheduler](https://github.com/cloud-org/delay-task-scheduler): 延时任务调度器 重点在于时间轮的实现，这里参考了 [rfyiamcool/go-timewheel](https://github.com/rfyiamcool/go-timewheel) 的实现并进行一些 bug 修复
-- [cloud-org/kafka-golang-sample](https://github.com/cloud-org/kafka-golang-sample): [kafka-go](github.com/segmentio/kafka-go) 的相关使用以及注意点
+- [cloud-org/kafka-golang-sample](https://github.com/cloud-org/kafka-golang-sample): [kafka-go](https://github.com/segmentio/kafka-go) 的相关使用以及注意点
 - [cloud-org/grpc-auth-sample](https://github.com/cloud-org/grpc-auth-sample): gRPC 认证相关 可参考相关[文章](https://juejin.cn/post/7041603440841064461)介绍
 - [cloud-org/shellcheck-web-wrapper](https://github.com/cloud-org/shellcheck-web-wrapper): [shellcheck](https://github.com/koalaman/shellcheck) 的 web 包装，提供一个 HTTP 服务方便用户接入
 - [cloud-org/multi-timezone-scheduler](https://github.com/cloud-org/multi-timezone-scheduler): 多时区定时任务调度器 基于 [cronv3](https://github.com/robfig/cron) 其实本身参数是有支持的(逃
@@ -48,7 +48,7 @@
 
 - [cloud-org/lua-in-action](https://github.com/cloud-org/lua-in-action): 看看 lua
 - [cloud-org/es6-in-action](https://github.com/cloud-org/es6-in-action): 看看 js
-- [ronething/ifttt](https://github.com/ronething/ifttt): [ruanyf/weekly](https://github.com/ruanyf/weekly) 科学爱好者周刊订阅推送(基于 [actionsflow](https://github.com/actionsflow/actionsflow)) ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
+- [ronething/ruanyf-weekly-rss-push](https://github.com/ronething/ruanyf-weekly-rss-push): [ruanyf/weekly](https://github.com/ruanyf/weekly) 基于 actionsflow 实现科学爱好者周刊订阅推送 ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
 
 #### Coding
 

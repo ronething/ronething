@@ -53,7 +53,7 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -107,10 +107,10 @@ Shell Script             1 min               ░░░░░░░░░░░�
 go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 11 mins       █████████████████████████   100.0%
+IntelliJ                 3 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.0%
+Mac                      3 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,5 +127,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 02:35:33 UTC
+ Last Updated on 21/05/2022 02:04:28 UTC
 <!--END_SECTION:waka-->

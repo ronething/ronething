@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 💬 Go, Python, JavaScript 逆向爱好者
-- 🎸 热衷指弹
+- 💬 JavaScript 逆向爱好者
+- 🧱 Go/Python 
+- 🎸 热爱指弹(fingerstyle)
 - 🏠 Blog: [blog.ronething.cn](https://blog.ronething.cn)
 
 一些可能比较有(qi)趣(guai)的开源仓库:

@@ -54,31 +54,31 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 527 Contributions in the Year 2022
+> 🏆 535 Contributions in the Year 2022
  > 
-> 📦 713.5 kB Used in GitHub's Storage 
+> 📦 709.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 103 Public Repositories 
+> 📜 101 Public Repositories 
  > 
-> 🔑 49 Private Repositories  
+> 🔑 52 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
 🌆 Daytime    114 commits    ████████░░░░░░░░░░░░░░░░░   33.53% 
 🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   36.47% 
-🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   21.76%
+🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -118,15 +118,15 @@ Mac                      3 hrs 10 mins       ███████████�
 **I Mostly Code in Go** 
 
 ```text
-Go                       34 repos            ██████████░░░░░░░░░░░░░░░   41.46% 
-Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Go                       34 repos            ██████████░░░░░░░░░░░░░░░   40.96% 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.3% 
+Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
 
 ```
 
 
 
- Last Updated on 22/05/2022 02:28:39 UTC
+ Last Updated on 22/05/2022 05:42:56 UTC
 <!--END_SECTION:waka-->

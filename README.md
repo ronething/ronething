@@ -34,8 +34,6 @@
 
 #### Misc(杂项)
 
-- [cloud-org/lua-in-action](https://github.com/cloud-org/lua-in-action): 看看 lua
-- [cloud-org/es6-in-action](https://github.com/cloud-org/es6-in-action): 看看 js
 - [ronething/ruanyf-weekly-rss-push](https://github.com/ronething/ruanyf-weekly-rss-push): [ruanyf/weekly](https://github.com/ruanyf/weekly) 基于 actionsflow 实现科学爱好者周刊订阅推送 ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
 
 #### Coding

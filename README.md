@@ -9,27 +9,21 @@
 
 #### 数据结构与算法
 
-- [InterviewTips/algorithm-coding](https://github.com/InterviewTips/algorithm-coding): ✍️ 算法写题记录总结
-- [InterviewTips/Data-Structures-Java](https://github.com/InterviewTips/Data-Structures-Java): ✍️多种数据结构 涉及一些算法题
+- [InterviewTips/algorithm-coding](https://github.com/InterviewTips/algorithm-coding): ✍️ 算法写题记录总结 ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/algorithm-coding?style=flat-square)
+- [InterviewTips/Data-Structures-Java](https://github.com/InterviewTips/Data-Structures-Java): ✍️多种数据结构 涉及一些算法题 ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/Data-Structures-Java?style=flat-square)
 
 ![leetcode](https://stats.justsong.cn/api/leetcode?username=ashing&cn=true)
 
 #### Golang
 
 - [cloud-org/gin-reflect-handler](https://github.com/cloud-org/gin-reflect-handler): gin 编写通用处理函数(基于反射) [相关介绍文章](https://juejin.cn/post/7041916837419810847)
-- [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go 相关，包含一些基本的资源操作还有 web container ssh 相关前后端代码等
-- [cloud-org/gocn-push](https://github.com/cloud-org/gocn-push): gocn 每日新闻推送，目前支持的推送方式有三种，分别为: 企业微信、钉钉、Slack、pushdeer
-- [cloud-org/broadcast](https://github.com/cloud-org/broadcast): 📢 结合 etcd watchChan 做配置变更广播，具体场景为多个 agent 连接 server，server 启动一个 watchChan 监听 etcd 某个 key 或者 --prefix，然后有事件通知则循环广播通知所有的 agent
+- [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go 相关，包含一些基本的资源操作等
+- [cloud-org/gocn-push](https://github.com/cloud-org/gocn-push): gocn 每日新闻推送，支持多种通知方式
 - [cloud-org/6.824](https://github.com/cloud-org/6.824): MIT6.824 分布式系统课程，坑还没填完，目前暂时只写了实验一 MapReduce
-- [cloud-org/delay-task-scheduler](https://github.com/cloud-org/delay-task-scheduler): 延时任务调度器 重点在于时间轮的实现，这里参考了 [rfyiamcool/go-timewheel](https://github.com/rfyiamcool/go-timewheel) 的实现并进行一些 bug 修复
-- [cloud-org/kafka-golang-sample](https://github.com/cloud-org/kafka-golang-sample): [kafka-go](https://github.com/segmentio/kafka-go) 的相关使用以及注意点
 - [cloud-org/grpc-auth-sample](https://github.com/cloud-org/grpc-auth-sample): gRPC 认证相关 可参考相关[文章](https://juejin.cn/post/7041603440841064461)介绍
-- [cloud-org/shellcheck-web-wrapper](https://github.com/cloud-org/shellcheck-web-wrapper): [shellcheck](https://github.com/koalaman/shellcheck) 的 web 包装，提供一个 HTTP 服务方便用户接入
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): 支持多 master 多 worker 的定时任务调度组件 ![GitHub stars](https://img.shields.io/github/stars/cloud-org/crontab?style=flat-square)
-- [cloud-org/go-demo](https://github.com/cloud-org/go-demo): mongo、etcd client 模块的相关 demo 操作
 - [ronething/clock](https://github.com/ronething/clock): 基于 redis 和 mongodb 实现分布式任务调度组件，集成 prometheus 监控 ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): 微信公众号开发，通过路由文本实现不同功能回复 ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)
-- [ronething/wechat-bot-go](https://github.com/ronething/wechat-bot-go): 微信个人机器人客户端封装 
 
 #### Python
 

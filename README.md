@@ -39,17 +39,17 @@
 #### Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 549 Contributions in the Year 2022
+> 🏆 555 Contributions in the Year 2022
  > 
-> 📦 709.4 kB Used in GitHub's Storage 
+> 📦 721.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,5 +111,5 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2022 02:48:42 UTC
+ Last Updated on 30/05/2022 02:49:45 UTC
 <!--END_SECTION:waka-->

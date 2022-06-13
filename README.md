@@ -12,15 +12,11 @@
 - [InterviewTips/algorithm-coding](https://github.com/InterviewTips/algorithm-coding): ✍️ 算法写题记录总结 ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/algorithm-coding?style=flat-square)
 - [InterviewTips/Data-Structures-Java](https://github.com/InterviewTips/Data-Structures-Java): ✍️多种数据结构 涉及一些算法题 ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/Data-Structures-Java?style=flat-square)
 
-![leetcode](https://stats.justsong.cn/api/leetcode?username=ashing&cn=true)
-
 #### Golang
 
-- [cloud-org/gin-reflect-handler](https://github.com/cloud-org/gin-reflect-handler): gin 编写通用处理函数(基于反射) [相关介绍文章](https://juejin.cn/post/7041916837419810847)
 - [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go 相关，包含一些基本的资源操作等
 - [cloud-org/gocn-push](https://github.com/cloud-org/gocn-push): gocn 每日新闻推送，支持多种通知方式
 - [cloud-org/6.824](https://github.com/cloud-org/6.824): MIT6.824 分布式系统课程，坑还没填完，目前暂时只写了实验一 MapReduce
-- [cloud-org/grpc-auth-sample](https://github.com/cloud-org/grpc-auth-sample): gRPC 认证相关 可参考相关[文章](https://juejin.cn/post/7041603440841064461)介绍
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): 支持多 master 多 worker 的定时任务调度组件 ![GitHub stars](https://img.shields.io/github/stars/cloud-org/crontab?style=flat-square)
 - [ronething/clock](https://github.com/ronething/clock): 基于 redis 和 mongodb 实现分布式任务调度组件，集成 prometheus 监控 ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): 微信公众号开发，通过路由文本实现不同功能回复 ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)

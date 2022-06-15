@@ -14,9 +14,6 @@
 
 #### Golang
 
-- [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go 相关，包含一些基本的资源操作等
-- [cloud-org/gocn-push](https://github.com/cloud-org/gocn-push): gocn 每日新闻推送，支持多种通知方式
-- [cloud-org/6.824](https://github.com/cloud-org/6.824): MIT6.824 分布式系统课程，坑还没填完，目前暂时只写了实验一 MapReduce
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): 支持多 master 多 worker 的定时任务调度组件 ![GitHub stars](https://img.shields.io/github/stars/cloud-org/crontab?style=flat-square)
 - [ronething/clock](https://github.com/ronething/clock): 基于 redis 和 mongodb 实现分布式任务调度组件，集成 prometheus 监控 ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): 微信公众号开发，通过路由文本实现不同功能回复 ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)

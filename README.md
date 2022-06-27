@@ -17,6 +17,7 @@
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): 支持多 master 多 worker 的定时任务调度组件 ![GitHub stars](https://img.shields.io/github/stars/cloud-org/crontab?style=flat-square)
 - [ronething/clock](https://github.com/ronething/clock): 基于 redis 和 mongodb 实现分布式任务调度组件，集成 prometheus 监控 ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): 微信公众号开发，通过路由文本实现不同功能回复 ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)
+- [ronething/zhengzaitv-go](https://github.com/ronething/zhengzaitv-go): 正在现场请求样例学习 ![GitHub stars](https://img.shields.io/github/stars/ronething/zhengzaitv-go?style=flat-square)
 
 #### Python
 

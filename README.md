@@ -26,7 +26,6 @@
 
 <details>
   <summary><b>ashing's github repo</b></summary>
-  <br/>
 
 #### Data Structures and Algorithms
 

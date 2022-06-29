@@ -13,7 +13,9 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-#### blog posts
+
+<details>
+  <summary><b>blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [zhengzaitv-go 发布](https://blog.ronething.cn/20220629-zhengzaitv-go.html)
@@ -23,6 +25,7 @@
 - [【算法系列】 0～n-1 中缺失的数字](https://blog.ronething.cn/20200912-algo.html)
 <!-- BLOG-POST-LIST:END -->
 
+</details>
 
 <details>
   <summary><b>ashing's github repo</b></summary>
@@ -50,73 +53,6 @@
 
 - [ronething/ruanyf-weekly-rss-push](https://github.com/ronething/ruanyf-weekly-rss-push): [ruanyf/weekly](https://github.com/ruanyf/weekly) 基于 actionsflow 实现科学爱好者周刊订阅推送 ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
 </details>
-
-<details>
-  <summary><b>coding</b></summary>
-  <br/>
   
-  <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 701 Contributions in the Year 2022
- > 
-> 📦 680.3 kB Used in GitHub's Storage 
- > 
-> 📜 100 Public Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌆 Daytime    90 commits     ███████░░░░░░░░░░░░░░░░░░   31.47% 
-🌃 Evening    106 commits    █████████░░░░░░░░░░░░░░░░   37.06% 
-🌙 Night      64 commits     █████░░░░░░░░░░░░░░░░░░░░   22.38%
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Saturday     86 commits     ███████░░░░░░░░░░░░░░░░░░   30.07% 
-Sunday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       6 hrs 3 mins        ███████████████████░░░░░░   77.29% 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-ANTLR v4 grammar file    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-
-🔥 Editors: 
-IntelliJ                 7 hrs 50 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      7 hrs 50 mins       █████████████████████████   100.0%
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       36 repos            ██████████░░░░░░░░░░░░░░░   43.37% 
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
-```
-
-
-
- Last Updated on 29/06/2022 18:33:05 UTC+08:00
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</details>

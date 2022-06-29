@@ -18,12 +18,11 @@
   <summary><b>blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [zhengzaitv-go 发布](https://blog.ronething.cn/20220629-zhengzaitv-go.html)
-- [blog 配置 github actions](https://blog.ronething.cn/20220522-github-actions.html)
-- [某动自动抢票 selenium 版本发布](https://blog.ronething.cn/20220416-xiudong-selenium.html)
-- [2020 年终总结](https://blog.ronething.cn/20210101-summary.html)
-- [【算法系列】 0～n-1 中缺失的数字](https://blog.ronething.cn/20200912-algo.html)
-<!-- BLOG-POST-LIST:END -->
+ - [zhengzaitv-go 发布](https://blog.ronething.cn/20220629-zhengzaitv-go.html) - Wed Jun 29 2022 9:59 AM
+ - [blog 配置 github actions](https://blog.ronething.cn/20220522-github-actions.html) - Sun May 22 2022 10:44 AM
+ - [某动自动抢票 selenium 版本发布](https://blog.ronething.cn/20220416-xiudong-selenium.html) - Sat Apr 16 2022 11:27 PM
+ - [2020 年终总结](https://blog.ronething.cn/20210101-summary.html) - Thu Dec 31 2020 9:29 PM
+ - [【算法系列】 0～n-1 中缺失的数字](https://blog.ronething.cn/20200912-algo.html) - Sat Sep 12 2020 2:25 PM<!-- BLOG-POST-LIST:END -->
 
 </details>
 

@@ -1,11 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm ashing</h1>
 
-- 💬 JavaScript 逆向爱好者
-- 🧱 Go/Python 
-- 🎸 热爱指弹(fingerstyle)
-- 🏠 Blog: [blog.ronething.cn](https://blog.ronething.cn)
+- 📝 I regularly write articles on [https://blog.ronething.cn](https://blog.ronething.cn/)
 
-一些可能比较有(qi)趣(guai)的开源仓库:
+- 📫 How to reach me **axingfly@gmail.com**
+
+- ⚡ Fun fact **I'm currently learning javascript RE**
+
+- 🧱 Go/Python **For Work**
+
+- 🎸 Love **Fingerstyle**
+
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+<details>
+  <summary><b>ashing's github repo</b></summary>
 
 #### 数据结构与算法
 
@@ -29,69 +39,14 @@
 #### Misc(杂项)
 
 - [ronething/ruanyf-weekly-rss-push](https://github.com/ronething/ruanyf-weekly-rss-push): [ruanyf/weekly](https://github.com/ruanyf/weekly) 基于 actionsflow 实现科学爱好者周刊订阅推送 ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
+</details>
 
-#### Coding
+<details>
+  <summary><b>coding</b></summary>
+  <br/>
+  
+  <!--START_SECTION:waka-->
+  
+  <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 700 Contributions in the Year 2022
- > 
-> 📦 680.3 kB Used in GitHub's Storage 
- > 
-> 📜 100 Public Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-🌆 Daytime    90 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
-🌃 Evening    105 commits    █████████░░░░░░░░░░░░░░░░   36.84% 
-🌙 Night      64 commits     █████░░░░░░░░░░░░░░░░░░░░   22.46%
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
-Saturday     86 commits     ███████░░░░░░░░░░░░░░░░░░   30.18% 
-Sunday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       6 hrs 3 mins        ███████████████████░░░░░░   77.29% 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-ANTLR v4 grammar file    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-
-🔥 Editors: 
-IntelliJ                 7 hrs 50 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      7 hrs 50 mins       █████████████████████████   100.0%
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       36 repos            ██████████░░░░░░░░░░░░░░░   43.37% 
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
-```
-
-
-
- Last Updated on 29/06/2022 10:45:29 UTC+08:00
-<!--END_SECTION:waka-->
+</details>

@@ -1,0 +1,17 @@
+name: blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '30 0 * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: update blog.ronething.cn posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.ronething.cn/atom.xml"

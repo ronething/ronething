@@ -17,3 +17,5 @@ jobs:
           feed_list: "https://blog.ronething.cn/atom.xml"
           template: $newline - [$title]($url) - $date
           date_format: "isoUtcDateTime"
+          committer_username: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com

@@ -18,7 +18,11 @@
   <br/>
 
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by ashing for Docker: Go server does not respond](https://stackoverflow.com/questions/72783444/docker-go-server-does-not-respond/72783904#72783904)
+- [Answer by ashing for Why does an array field in a Go struct default to null when inserted into mongoDB database?](https://stackoverflow.com/questions/72724175/why-does-an-array-field-in-a-go-struct-default-to-null-when-inserted-into-mongod/72781724#72781724)
+- [Answer by ashing for Mongodb how to search by regex OR on many fields?](https://stackoverflow.com/questions/72780053/mongodb-how-to-search-by-regex-or-on-many-fields/72780187#72780187)
+- [Answer by ashing for How to create a dictionary out of weird list format?](https://stackoverflow.com/questions/72779914/how-to-create-a-dictionary-out-of-weird-list-format/72779993#72779993)
+- [Answer by ashing for How to mock kafka dependencies and writer in Golang?](https://stackoverflow.com/questions/72752383/how-to-mock-kafka-dependencies-and-writer-in-golang/72759821#72759821)
 <!-- STACKOVERFLOW:END -->
 </details>
 

@@ -19,3 +19,15 @@ jobs:
           date_format: "isoUtcDateTime"
           committer_username: github-actions[bot]
           committer_email: github-actions[bot]@users.noreply.github.com
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          committer_username: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/12897479" 

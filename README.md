@@ -58,10 +58,10 @@
 
 <!-- BLOG-POST-LIST:START -->
  - [zhengzaitv-go release](https://blog.ronething.cn/20220629-zhengzaitv-go.html) - 2022-06-29T09:59:23Z
+ - [go-zero gin jaeger trace](https://blog.ronething.cn/20220628-go-zero-trace-gin.html) - 2022-06-28T09:59:23Z
+ - [function compute](https://blog.ronething.cn/20220606-functioncompute.html) - 2022-06-06T09:59:23Z
  - [blog github actions config](https://blog.ronething.cn/20220522-github-actions.html) - 2022-05-22T10:44:26Z
- - [implement showstart order service based on python and selenium](https://blog.ronething.cn/20220416-xiudong-selenium.html) - 2022-04-16T23:27:44Z
- - [2020 annual summary](https://blog.ronething.cn/20210101-summary.html) - 2020-12-31T21:29:54Z
- - [Missing digits from 0 to n-1](https://blog.ronething.cn/20200912-algo.html) - 2020-09-12T14:25:31Z<!-- BLOG-POST-LIST:END -->
+ - [implement showstart order service based on python and selenium](https://blog.ronething.cn/20220416-xiudong-selenium.html) - 2022-04-16T23:27:44Z<!-- BLOG-POST-LIST:END -->
 
 </details>
 

@@ -30,7 +30,7 @@
 
 ##### Python
 
-- [ronething/xiudong-selenium](https://github.com/ronething/xiudong-selenium): Implement showstart order service based on python and selenium ![GitHub stars](https://img.shields.io/github/stars/ronething/xiudong-selenium?style=flat-square)
+- [ronething/xiudong-selenium](https://github.com/ronething/xiudong-selenium): Implement showstart order service based on python with selenium and flask ![GitHub stars](https://img.shields.io/github/stars/ronething/xiudong-selenium?style=flat-square)
 - [ronething/ZhiHuCollectionToPDF](https://github.com/ronething/ZhiHuCollectionToPDF): export zhihu collection to pdf ![GitHub stars](https://img.shields.io/github/stars/ronething/ZhiHuCollectionToPDF?style=flat-square)
 - [ronething/ZhiHuZhuanLanToPDF](https://github.com/ronething/ZhiHuZhuanLanToPDF): export zhihu zhuanlan to pdf ![GitHub stars](https://img.shields.io/github/stars/ronething/ZhiHuZhuanLanToPDF?style=flat-square)
 

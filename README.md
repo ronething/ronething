@@ -37,6 +37,9 @@
 ##### Misc
 
 - [ronething/ruanyf-weekly-rss-push](https://github.com/ronething/ruanyf-weekly-rss-push): Implement ruanyf/weekly rss push based on actionsflow ![GitHub stars](https://img.shields.io/github/stars/ronething/ifttt?style=flat-square)
+- [ronething/learn](https://github.com/ronething/learn): learn ![GitHub stars](https://img.shields.io/github/stars/ronething/learn?style=flat-square)
+- [ronething/demo](https://github.com/ronething/demo): demo ![GitHub stars](https://img.shields.io/github/stars/ronething/demo?style=flat-square)
+
 </details>
 
 <details>

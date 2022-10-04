@@ -76,9 +76,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 829 Contributions in the Year 2022
+> 🏆 830 Contributions in the Year 2022
  > 
-> 📦 716.1 kB Used in GitHub's Storage 
+> 📦 716.2 kB Used in GitHub's Storage 
  > 
 > 📜 89 Public Repositories 
  > 
@@ -109,13 +109,13 @@ Sunday       68 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.0%
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +130,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2022 10:38:25 UTC+08:00
+ Last Updated on 04/10/2022 10:53:32 UTC+08:00
 <!--END_SECTION:waka-->
 
 </details>

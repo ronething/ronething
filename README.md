@@ -76,8 +76,6 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 823 Contributions in the Year 2022
- > 
 > 📦 696.1 kB Used in GitHub's Storage 
  > 
 > 📜 58 Public Repositories 
@@ -131,7 +129,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 10:38:43 UTC+08:00
+ Last Updated on 22/10/2022 11:03:28 UTC+08:00
 <!--END_SECTION:waka-->
 
 </details>

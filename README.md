@@ -109,14 +109,13 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       17 mins             █████████████████████████   99.71% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -131,7 +130,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2022 11:31:23 UTC+08:00
+ Last Updated on 25/10/2022 11:25:29 UTC+08:00
 <!--END_SECTION:waka-->
 
 </details>

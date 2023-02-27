@@ -27,6 +27,7 @@
 - [ronething/clock](https://github.com/ronething/clock): Implement distributed task scheduling component based on redis and mongodb ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): mp-dev, implement route trie for reply ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)
 - [ronething/zhengzaitv-go](https://github.com/ronething/zhengzaitv-go): zhengzaitv sample ![GitHub stars](https://img.shields.io/github/stars/ronething/zhengzaitv-go?style=flat-square)
+- [ronething/xiudong-go](https://github.com/ronething/xiudong-go): xiudong sample ![GitHub stars](https://img.shields.io/github/stars/ronething/xiudong-go?style=flat-square)
 
 ##### Python
 

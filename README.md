@@ -61,11 +61,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+ - [Xiudong-Go Release](https://blog.ronething.cn/20230227-xiudong-go.html) - 2023-02-27T18:22:20Z
  - [GitHub Star Migration](https://blog.ronething.cn/20230223-star-migration.html) - 2023-02-23T20:29:22Z
  - [Build Apache APISIX From Source On M2 Pro](https://blog.ronething.cn/20230212-build-apisix-on-m2-pro.html) - 2023-02-12T15:50:19Z
  - [zhengzaitv-go release](https://blog.ronething.cn/20220629-zhengzaitv-go.html) - 2022-06-29T09:59:23Z
- - [go-zero gin jaeger trace](https://blog.ronething.cn/20220628-go-zero-trace-gin.html) - 2022-06-28T09:59:23Z
- - [function compute](https://blog.ronething.cn/20220606-functioncompute.html) - 2022-06-06T09:59:23Z<!-- BLOG-POST-LIST:END -->
+ - [go-zero gin jaeger trace](https://blog.ronething.cn/20220628-go-zero-trace-gin.html) - 2022-06-28T09:59:23Z<!-- BLOG-POST-LIST:END -->
 
 </details>
 

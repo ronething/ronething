@@ -28,6 +28,7 @@
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): mp-dev, implement route trie for reply ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)
 - [ronething/zhengzaitv-go](https://github.com/ronething/zhengzaitv-go): zhengzaitv sample ![GitHub stars](https://img.shields.io/github/stars/ronething/zhengzaitv-go?style=flat-square)
 - [ronething/xiudong-go](https://github.com/ronething/xiudong-go): xiudong sample ![GitHub stars](https://img.shields.io/github/stars/ronething/xiudong-go?style=flat-square)
+- [ronething/im-to-notion](https://github.com/ronething/im-to-notion): send msg to notion through im. ![GitHub stars](https://img.shields.io/github/stars/ronething/im-to-notion?style=flat-square)
 
 ##### Python
 

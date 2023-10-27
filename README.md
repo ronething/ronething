@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,401 Contributions in the Year 2023
+> 🏆 1,409 Contributions in the Year 2023
  > 
 > 📦 737.5 kB Used in GitHub's Storage 
  > 
-> 📜 69 Public Repositories 
+> 📜 68 Public Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -124,7 +124,7 @@ Java                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2023 09:31:03 UTC+08:00
+ Last Updated on 27/10/2023 09:31:26 UTC+08:00
 <!--END_SECTION:waka-->
 
 </details>

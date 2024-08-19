@@ -17,18 +17,13 @@
 - [InterviewTips/algorithm-coding](https://github.com/InterviewTips/algorithm-coding): ✍️algorithm-coding  ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/algorithm-coding?style=flat-square)
 - [InterviewTips/Data-Structures-Java](https://github.com/InterviewTips/Data-Structures-Java): ✍️implement data structures ![GitHub stars](https://img.shields.io/github/stars/InterviewTips/Data-Structures-Java?style=flat-square)
 
-##### Golang
+##### Projects
 
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): A distributed task scheduling component ![GitHub stars](https://img.shields.io/github/stars/cloud-org/crontab?style=flat-square)
 - [ronething/clock](https://github.com/ronething/clock): Implement distributed task scheduling component based on redis and mongodb ![GitHub stars](https://img.shields.io/github/stars/ronething/clock?style=flat-square)
 - [ronething/mp-dev](https://github.com/ronething/mp-dev): mp-dev, implement route trie for reply ![GitHub stars](https://img.shields.io/github/stars/ronething/mp-dev?style=flat-square)
 - [ronething/im-to-notion](https://github.com/ronething/im-to-notion): send msg to notion through im. ![GitHub stars](https://img.shields.io/github/stars/ronething/im-to-notion?style=flat-square)
-
-##### Python
-
 - [ronething/xiudong-selenium](https://github.com/ronething/xiudong-selenium): Implement showstart order service based on python with selenium and flask ![GitHub stars](https://img.shields.io/github/stars/ronething/xiudong-selenium?style=flat-square)
-- [ronething/ZhiHuCollectionToPDF](https://github.com/ronething/ZhiHuCollectionToPDF): export zhihu collection to pdf ![GitHub stars](https://img.shields.io/github/stars/ronething/ZhiHuCollectionToPDF?style=flat-square)
-- [ronething/ZhiHuZhuanLanToPDF](https://github.com/ronething/ZhiHuZhuanLanToPDF): export zhihu zhuanlan to pdf ![GitHub stars](https://img.shields.io/github/stars/ronething/ZhiHuZhuanLanToPDF?style=flat-square)
 
 </details>
 

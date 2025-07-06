@@ -14,7 +14,7 @@ jobs:
       - name: update blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.ronething.cn/index.html"
+          feed_list: "https://blog.ronething.cn/index.xml"
           template: $newline - [$title]($url) - $date
           date_format: "isoUtcDateTime"
           committer_username: github-actions[bot]

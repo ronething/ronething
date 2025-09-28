@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ashing</h1>
-
 ![profile](./images/profile.webp)
+
+<h1 align="center">Hi 👋, I'm ashing</h1>
 
 - 📝 I regularly write articles on [https://blog.ronething.cn](https://blog.ronething.cn/)
 

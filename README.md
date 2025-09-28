@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ashing</h1>
 
+![profile](./images/profile.webp)
+
 - 📝 I regularly write articles on [https://blog.ronething.cn](https://blog.ronething.cn/)
 
 - 📫 How to reach me **axingfly@gmail.com**
@@ -53,7 +55,7 @@
 
 </details>
 
-  
+
 <details>
   <summary><b>coding stats</b></summary>
   <br/>
